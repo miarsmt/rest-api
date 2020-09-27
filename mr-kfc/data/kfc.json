@@ -1,0 +1,144 @@
+{
+  "menu": [
+    {
+      "kategori": "Praktis",
+      "nama": "BBQ Bento",
+      "deskripsi": "Nasi putih dengan irisan daging ayam goreng, dan saus barbeque",
+      "harga": 14545,
+      "gambar": "barbequebento.png"
+    },
+    {
+      "kategori": "Praktis",
+      "nama": "Zupper Krunch",
+      "deskripsi": "Burger dengan isian ayam super crispy lengkap pakai keju cheddar sliced",
+      "harga": 22000,
+      "gambar": "zuper-krunch.png"
+    },
+    {
+      "kategori": "Praktis",
+      "nama": "Twisty",
+      "deskripsi": "Gulungan daging ayam crispy lengkap dengan mayonaise, juga berisikan sayur dan tomat",
+      "harga": 14091,
+      "gambar": "twisty.png"
+    },
+    {
+      "kategori": "Ala Carte",
+      "nama": "Choconut Sundae",
+      "deskripsi": "Es krim manis berbalut saus coklat yang nikmat disajikan selagi nongkrong",
+      "harga": 10000,
+      "gambar": "choconutsundae.png"
+    },
+    {
+      "kategori": "Ala Carte",
+      "nama": "Spaghetty Deluxe",
+      "deskripsi": "Spaghetty dengan ukuran pas dilumuri dengan saus bolognese dan taburan keju",
+      "harga": 5000,
+      "gambar": "spaghettydeluxe.png"
+    },
+    {
+      "kategori": "Ala Carte",
+      "nama": "Fun Fries BBQ",
+      "deskripsi": "Camilan kentang goreng yang renyah rasa saus barbeque",
+      "harga": 18182,
+      "gambar": "fun-fries-bbq.png"
+    },
+    {
+      "kategori": "Ala Carte",
+      "nama": "Pudding RTE",
+      "deskripsi": "Pudding lembut dan manis dengan rasa coklat",
+      "harga": 6364,
+      "gambar": "choco-pudding.png"
+    },
+    {
+      "kategori": "Ala Carte",
+      "nama": "Soft Ice Cream",
+      "deskripsi": "Es krim lembut dari perpaduan buah-buahan segar",
+      "harga": 9000,
+      "gambar": "softicecream.png"
+    },
+    {
+      "kategori": "Drinks",
+      "nama": "Mango Float",
+      "deskripsi": "Minuman mangga segar dengan diberi float diatasnya",
+      "harga": 9100,
+      "gambar": "mangofloat.png"
+    },
+    {
+      "kategori": "Breakfast",
+      "nama": "Scramble Egg",
+      "deskripsi": "Perpaduan telur dan susu yang lembut dan nikmat",
+      "harga": 5000,
+      "gambar": "scrambled-egg.png"
+    },
+    {
+      "kategori": "Breakfast",
+      "nama": "Waffle",
+      "deskripsi": "Waffle renyah disajikan dalam keadaan hangat dengan dituangkan sirup maple diatasnya",
+      "harga": 15000,
+      "gambar": "waffle.png"
+    },
+    {
+      "kategori": "Breakfast",
+      "nama": "Chicken Porridge",
+      "deskripsi": "Bubur yang dibuat dari beras pilihan dengan potongan ayam khas KFC yang gurih dan kaya rempah",
+      "harga": 9091,
+      "gambar": "chickenl-porridge.png"
+    },
+    {
+      "kategori": "Breakfast",
+      "nama": "Pancake",
+      "deskripsi": "Pancake hangat yang diberi butter dan disajikan dengan sirup maple",
+      "harga": 13030,
+      "gambar": "pancake.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Iced Strawberry Tea",
+      "deskripsi": "Minuman teh manis dingin dengan rasa strawberry",
+      "harga": 9000,
+      "gambar": "iced-strawberry-tea.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Hot Cafe Latte",
+      "deskripsi": "Kopi hangat dengan varian latte di atasnya cocok untuk menemani sajian sarapan",
+      "harga": 18500,
+      "gambar": "hot-cafe-latte.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Hot Americano",
+      "deskripsi": "Kopi america hangat bagi kamu pecinta kopi sejati",
+      "harga": 20000,
+      "gambar": "hot-americano.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Es Kopi Susu",
+      "deskripsi": "Kopi susu dingin yang menyegarkan hari mu",
+      "harga": 15000,
+      "gambar": "es-kopisusu.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Cookie Crumb Donut",
+      "deskripsi": "Donut nikmat dengan taburan bubuk oreo di atasnya",
+      "harga": 12000,
+      "gambar": "cookie-crumb-donut.png"
+    },
+    {
+      "kategori": "Coffe",
+      "nama": "Donut Choconut",
+      "deskripsi": "Donut Lezat ditaburi coklat dan kacang hazelnut yang renyah",
+      "harga": 13000,
+      "gambar": "donut-choconut.png"
+    },
+    {
+      "kategori": "Kids Meal",
+      "nama": "Strawberry Kids Sundae",
+      "deskripsi": "Es krim sundae yang manis dilumuri saus stawberry di atasnya",
+      "harga": 9000,
+      "gambar": "kids-sundae3.png"
+    }
+  ]
+}

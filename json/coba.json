@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Mia Rusmiati",
+    "umur": 25,
+    "nik": "327292300",
+    "lulus": true,
+    "hobby": ["coding", "cooking"],
+    "pembimbing": {
+      "pembimbing1": "Samirah Rahayu, M.T",
+      "pembimbing2": "Lani Nurlani, M.Kom"
+    }
+  },
+  {
+    "nama": "Mia Rusmiati",
+    "umur": 25,
+    "nik": "327292300",
+    "lulus": true,
+    "hobby": ["coding", "cooking"],
+    "pembimbing": {
+      "pembimbing1": "Samirah Rahayu, M.T",
+      "pembimbing2": "Lani Nurlani, M.Kom"
+    }
+  }
+]
